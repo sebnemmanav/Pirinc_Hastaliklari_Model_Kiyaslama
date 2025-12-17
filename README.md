@@ -1,0 +1,1 @@
+# Pirin-_Hastaliklari_Kiyaslama
