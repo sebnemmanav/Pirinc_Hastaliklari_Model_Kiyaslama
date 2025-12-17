@@ -1,1 +1,1 @@
-# Pirin-_Hastaliklari_Kiyaslama
+# Ririnç Hastalıkları Üzerinden CNN Modelleri Kıyaslaması
