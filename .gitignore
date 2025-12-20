@@ -1,0 +1,7 @@
+Saved_Models/
+paddy_data/
+*.h5
+*.keras
+kaggle.json
+__pycache__/
+.ipynb_checkpoints/
