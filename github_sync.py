@@ -2,8 +2,6 @@ import os
 import subprocess
 
 def sync(commit_message="Kod güvenliği sağlandı ve yollar gizlendi"):
-    # Açık yol yerine userdata veya çevre değişkeni kullanımı önerilir
-    # Colab üzerinde çalıştığımız için doğrudan değişkenden alıyoruz
     project_dir = os.getcwd() 
     
     try:
